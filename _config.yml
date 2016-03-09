@@ -1,0 +1,28 @@
+name: flygincanada
+favicon: null
+layout_spectrum: 0.881229578750208
+typography_spectrum: 0.7136061014607549
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7219969399739057
+  lightness: 0.028380086412653327
+  saturation: 0.5348618314601481
+  rhythmicContrast: 0.3415857858490199
+purpose: []
